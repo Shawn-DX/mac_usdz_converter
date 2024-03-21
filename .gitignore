@@ -1,0 +1,5 @@
+*.usdz
+
+glb_files/
+
+db.sqlite3
