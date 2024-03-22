@@ -1,4 +1,4 @@
-This is a simple django restful API that receive a POST .glb/.gltf file and receive a converted .usdz file.
+This is a simple django restful API that POST a .glb/.gltf file and receive a converted .usdz file.
 
 Apple [USDZ Tools v0.66](https://developer.apple.com/augmented-reality/tools/files/USDPython-pkg.zip) is required for this API. This tool only works on Apple silicon machines.
 
