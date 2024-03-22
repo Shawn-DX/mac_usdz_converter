@@ -13,10 +13,15 @@ export PYTHONPATH=$PYTHONPATH:{TOOLS PATH}/USD/lib/python
 export PYTHONPATH=$PYTHONPATH:"/Applications/Autodesk/FBX Python SDK/2020.2.1/lib/Python37_x64"
 ```
 
+Restart the terminal and see if Apple usdzconverter works properly:
+```
+~ % usdzconvert -h
+```
+
 To run server:
 ```
-cd mac_usdz_converter
-python manage.py runserver
+~ % cd mac_usdz_converter
+~ % python manage.py runserver
 ```
 
 An example POST request:
