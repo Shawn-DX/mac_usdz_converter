@@ -18,3 +18,6 @@ To run server:
 cd mac_usdz_converter
 python manage.py runserver
 ```
+
+An example POST request:
+![image](https://github.com/Shawn-DX/mac_usdz_converter/assets/23091052/98dfc683-e2fd-44d8-8dba-6ff75096138e)
